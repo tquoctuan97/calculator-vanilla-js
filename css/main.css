@@ -208,3 +208,14 @@ body {
 .key--zero {
   grid-column: 1 / span 2;
 }
+
+.author { 
+  opacity: 0.85;
+  margin-top: 40px;
+  font-size: 16px;
+  color: '#eee';
+}
+
+.author a {
+  color: #ff7033;
+}
